@@ -50,7 +50,7 @@ This Shopify app injects a visually appealing promotional banner at the top of a
 - For advanced use, extend the app with backend logic or more theme app extensions.
 
 
-**Your Name**  
+**Falkeet Singh**  
 Email: falkeetpassi111@gmail.com 
 GitHub: [https://github.com/falkeetsingh/promotional-banner](https://github.com/falkeetsingh/promotional-banner)
 
